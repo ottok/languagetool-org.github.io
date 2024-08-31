@@ -30,6 +30,7 @@ this software is not supported by the LanguageTool team.**
 * [pyLanguagetool](https://github.com/Findus23/pyLanguagetool), command-line tool for using the JSON API
 * [LTEX Extension for VS Code (Visual Studio Code)](https://github.com/valentjn/vscode-ltex), Grammar/Spell Checker with LanguageTool and LaTeX Support. Other ways to [check LaTeX](https://dev.languagetool.org/checking-la-tex-with-languagetool).
 * [TeXtidote](https://github.com/sylvainhalle/textidote), a correction tool for LaTeX documents and other formats.  Other ways to [check LaTeX](https://dev.languagetool.org/checking-la-tex-with-languagetool).  
+* [linter-languagetool](https://web.pulsar-edit.dev/packages/linter-languagetool) for Pulsar ([source code](https://github.com/wysiib/linter-languagetool))
 * [vim-LanguageTool](https://github.com/dpelle/vim-LanguageTool)
 * [vim-grammarous](https://github.com/rhysd/vim-grammarous)
 
@@ -38,6 +39,7 @@ this software is not supported by the LanguageTool team.**
 
 Add-ons that haven't been updated for quite some time and that seem to be **unmaintained**:
 
+* [languagetool](https://web.pulsar-edit.dev/packages/languagetool) for Pulsar ([source code](https://github.com/fhchl/languagetool))
 * [linter-languagetool](https://atom.io/packages/linter-languagetool) for Atom ([source code](https://github.com/wysiib/linter-languagetool))
 * [LanguageTool for Android (source)](https://github.com/Softcatala/LanguageToolAndroidService)
 * [LanguageTool Eclipse Plugin](https://github.com/vogellacompany/languagetool-eclipse-plugin)
